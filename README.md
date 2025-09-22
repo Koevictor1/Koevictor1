@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! 👋 Me chamo Victor
 
-<!--
-**Koevictor1/Koevictor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESUCA**, cursando o **4º semestre**.
 
-Here are some ideas to get you started:
+💻 Apaixonado por tecnologia, programação e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Sempre buscando evoluir como desenvolvedor e explorar novas áreas dentro da tecnologia.
+
+---
+
+## 📫 Como me encontrar:
+- E-mail: victoracorci@gmail.com
+- GitHub: [github.com/Koevictor1](https://github.com/Koevictor1)
+
+## 🚀 Tecnologias que estou aprendendo/interessado:
+- Lógica de programação
+- Python
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 😄
