@@ -12,6 +12,24 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Cesuca, com conheci
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+### 📈 Estatísticas do GitHub
+
+<p>
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Koevictor1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+<p>
+  <img 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koevictor1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
 ---
 
 ### 🌐 Onde me encontrar
