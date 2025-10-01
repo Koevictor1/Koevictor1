@@ -16,7 +16,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Cesuca, com conheci
 
 ### 🌐 Onde me encontrar
 <div> 
-   <a href="https://www.instagram.com/koevictor_" target="_blank">
+   <a href="[https://www.instagram.com/koevictor_]" target="_blank">
      <img src="[https://www.instagram.com/koevictor_/](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)">
    </a>
    <a href="mailto:victoracorci@gmail.com" target="_blank">
