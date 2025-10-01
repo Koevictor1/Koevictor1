@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Victor Henrique
 
-Estou cursando **Análise e Desenvolvimento de Sistemas** na Cesuca, com conhecimento intermediário em **Python**. Atualmente, meu foco é aprimorar minhas habilidades em Python. Sou movido pelo aprendizado constante, especialmente na área de **tecnologia**, que é minha grande paixão.  
+Estou cursando **Análise e Desenvolvimento de Sistemas** na Cesuca, com conhecimento basico em **Python**. Atualmente, meu foco é aprimorar minhas habilidades em Python. Sou movido pelo aprendizado constante, especialmente na área de **tecnologia**, que é minha grande paixão.  
  
 - 🐍 Estudando Python  
 - 📊 Aprofundando meus conhecimentos em Python
