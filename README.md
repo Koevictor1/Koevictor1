@@ -1,8 +1,7 @@
-## 👋 Olá, me chamo Gabriel (Gb)
+## 👋 Olá, me chamo Victor
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** na Cesuca, com conhecimento intermediário em **Python**. Atualmente, meu foco é aprimorar minhas habilidades em Python e aprofundar meus conhecimentos na biblioteca **Pandas**. Sou movido pelo aprendizado constante, especialmente na área de **tecnologia**, que é minha grande paixão.  
-
-- 🎨 Front-End Básico  
+ 
 - 🐍 Estudando Python  
 - 📊 Aprofundando conhecimentos na biblioteca **Pandas**
 
@@ -41,8 +40,8 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Cesuca, com conheci
 
 ### 🌐 Onde me encontrar
 <div> 
-   <a href="https://www.instagram.com/gbsconci" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   <a href="https://www.instagram.com/koevictor_" target="_blank">
+     <img src="https://www.instagram.com/koevictor_/">
    </a>
    <a href="mailto:gabrielsconci@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
