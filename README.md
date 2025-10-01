@@ -3,27 +3,7 @@
 Estou cursando **Análise e Desenvolvimento de Sistemas** na Cesuca, com conhecimento intermediário em **Python**. Atualmente, meu foco é aprimorar minhas habilidades em Python e aprofundar meus conhecimentos na biblioteca **Pandas**. Sou movido pelo aprendizado constante, especialmente na área de **tecnologia**, que é minha grande paixão.  
  
 - 🐍 Estudando Python  
-- 📊 Aprofundando conhecimentos na biblioteca **Pandas**
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p>
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=3Gb3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-<p>
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Gb3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+- 📊 Aprofundando meus conhecimentos em Python
 
 ---
 
