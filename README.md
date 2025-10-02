@@ -14,6 +14,8 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Cesuca, com conheci
 
 ### 📈 Estatísticas do GitHub
 
+---
+
 <p>
   <img 
     alt="GitHub Stats" 
